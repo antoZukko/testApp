@@ -1,0 +1,9 @@
+ul{
+    list-style-type: none;
+    background-color: rgb(0, 110, 255);
+    margin: 0;
+}
+li{
+    display: inline;
+    color: white;
+}
