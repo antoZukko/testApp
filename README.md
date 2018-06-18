@@ -30,4 +30,4 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 
 # testApp
 Premier test d'app sur github
->>>>>>> 65d725c657ec59719af43ba8f5b89ff760ebf48a
+
